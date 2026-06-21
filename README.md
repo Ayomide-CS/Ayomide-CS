@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ayomide 👋
 
-<!--
-**Ayomide-CS/Ayomide-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Learning Frontend Development in Public
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building projects with:
+- HTML
+- CSS
+- JavaScript
+- React
+
+📚 Documenting my coding journey and sharing what I learn.
+
+## Connect With Me
+- X (Twitter): @yourusername
+- GitHub: @Ayomide-CS
+
+## Current Goals
+- Build 2 frontend projects
+- Contribute to open source
+- Land a software development internship
