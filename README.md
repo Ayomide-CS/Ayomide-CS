@@ -17,6 +17,6 @@
 - GitHub: @Ayomide-CS
 
 ## Current Goals
-- Build 2 frontend projects
+- Build 10 frontend projects
 - Contribute to open source
 - Land a software development internship
