@@ -13,7 +13,7 @@
 📚 Documenting my coding journey and sharing what I learn.
 
 ## Connect With Me
-- X (Twitter): @yourusername
+- X (Twitter): @Ayoolowosoyo
 - GitHub: @Ayomide-CS
 
 ## Current Goals
