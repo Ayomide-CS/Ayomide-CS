@@ -9,6 +9,8 @@
 - CSS
 - JavaScript
 - React
+- Next.JS
+- PostgreSQL
 
 📚 Documenting my coding journey and sharing what I learn.
 
